@@ -1,12 +1,7 @@
-# Metrics
+# ELK
 
 ## Building
 
-*Note:* A `~/.gradle/gradle.properties` file is required to run this build. This file needs to contain the following:
-```
-arrakis_deploy_username=<di2e_username>
-arrakis_deploy_password=<di2e_password>
-```
 To build the project run: `./gradlew build`
 
 ## Working with remote swarms
