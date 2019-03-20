@@ -1,4 +1,4 @@
-# ELK
+# ELK Stack
 
 ## Building
 
